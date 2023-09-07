@@ -1,6 +1,6 @@
 # Passwword_Generator
 
-[Deploy to live website](https://montjrj.github.io/Week_1_Challenge_Horiseon_Marketing_Agency/)
+[Deploy to live website](https://montjrj.github.io/password_generator/)
 
 ## Description
 An application that empowers employees to craft strong and secure passwords tailored to their preferences. This application will operate right in your web browser and will showcase dynamic HTML and CSS, all driven by your JavaScript wizardry. What's more, it will boast a clean, polished, and responsive user interface, ensuring a seamless experience across various screen sizes.
